@@ -15,7 +15,7 @@
         <img src="https://github.com/Jefer1026/Jefer1026/blob/master/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:jog106@hotmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
+        <img src="https://github.com/Jefer1026/Jefer1026/blob/master/assets/correo.svg" alt=correo style="margin-bottom: 5px;" />
     </a>
 </p>
 
