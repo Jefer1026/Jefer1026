@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!%2C+I'm+Jeferson+Oyola;Backend+Developer+Spring+Boot;Mechatronic+engineer" alt="Typing SVG" /></a>
 </div>
 
-## :scorpius: About me
+<h2 align="center">:scorpius: About me</h2>
 
 - I'm a passionate software developer with experience in web application development. My primary focus is on backend development using technologies such as Spring Boot and Java
 
@@ -17,11 +17,21 @@
 - #### Collaboration and Teamwork: I am an enthusiastic collaborator and effective communicator, capable of working in agile teams using methodologies such as Scrum
 - #### Education & Certifications: I have a degree in Mechatronics Engineering and have completed training courses in Spring Boot and other relevant technologies.
 
+
+
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,typescript,java,docker" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,spring,idea" />
+</div>
+
 <br/>
 
 
-
-## 📬 Contact me
+<h2 align="center"> 📬 Contact me</h2>
 
 <p align=center>
     <a href="https://github.com/jefer1026" target="_blank">
